@@ -1,6 +1,6 @@
 # Real Time CI/CD Pipeline for Java Application to Deploy on Apache Server
 
-![](https://miro.medium.com/v2/resize:fit:700/1*OgmkAQpgv2JPwHIQcVomWA.png)
+![image](https://github.com/user-attachments/assets/ddb0a80f-bdf4-421b-9475-b3ec9c4ece2a)
 
 ## **Introduction:**
 
@@ -21,7 +21,8 @@ Let’s dive in and explore how to set up a real-time CI/CD pipeline for deployi
 1. Intially clone the github repository.
 
 ```go
-git clone https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-32/JavaApp-CICD.git
+git clone https://github.com/VinsmokeSomya/Java-CICD-Apache-Deploy.git
+cd JavaApp-CICD
 ```
 
 2\. Install & Configure Terraform and AWS CLI on your local machine to create Jenkins Server on AWS Cloud.\\
